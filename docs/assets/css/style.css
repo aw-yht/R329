@@ -1,0 +1,11 @@
+.md-footer-copyright {
+  font-size: 0; 
+}
+
+.md-footer-copyright__highlight {
+  font-size: 14px; 
+}
+
+.md-footer-copyright > a {
+  display: none;
+}
