@@ -1,12 +1,23 @@
-# 概述
+# R329简介
 
-本文档使用 [MkDocs](https://www.mkdocs.org) 生成，代码保存在 [github](https://github.com/aw-yht/guide)，网站使用 [readthedocs](https://readthedocs.org/) 进行托管。
+R329是全志科技针对智能语音旗舰市场推出的一款高集成度SoC，搭载双核A53 1.5G CPU，内置双核400MHz HiFi4 和 800MHz AIPU 0.25TOPS，可以满足各种智能语音产品的需求
 
-## 文档编辑流程
+## R329核心规格
 
-* 向系统管理员申请开通github仓库访问权限。
-* git clone https://github.com/aw-yht/R329.git 将代码下载到本地。
-* 所有文档都放在 `guide/docs` 目录下，现在您可以使用熟悉的Markdown编辑器编写文档了。
-* 当完成文档编写后，使用 `git` 命令将您的修改提交到 github 仓库。
-* github 仓库收到提交后会自动通知 readthedocs，使用您提交的内容去更新网站。
+处理器：双核A53 1.5GHz，NPU 0.25T
+双核HIFI4 400MHz，2MB SRAM
+音频：5路ADC，2路DAC
+接口：I2S*3/DMIC/OWA，USB*2，GMAC
+显示：SPI LCD, PWM*15
+工艺：HPC28+
+封装：12mm×12mm
+系统：Linux
 
+##R329参考设计
+
+内置DDR3 128MB（可定制256M）
+集成2路LDO
+两层PCB设计
+可选WiFi/BT：XR829
+（802.11 2.4G b/g/n+BT4.2）
+可选AUDIO：AC107（ADC*2, 103dB）
