@@ -2,7 +2,8 @@ site_name: R329
 
 nav:
   - index.md
-  - install.md
+  - getsource.md
+  - r329_evb5.md
   - '编写文档':
     - writting_docs/writting_in_markdown.md
     - writting_docs/embedding_images.md
