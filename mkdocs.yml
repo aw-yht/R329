@@ -33,4 +33,5 @@ theme:
       lang: ja
   features:
     - navigation.expand
+  font: false
   
