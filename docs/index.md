@@ -6,7 +6,7 @@ R329是全志科技针对智能语音旗舰市场推出的一款高集成度SoC�
 
 ##应用场景
 
-![R329应用场景](D:\software\ubuntu\share_with_vbox\R329_github\R329\docs\assets\img\R329application.png)
+![R329应用场景](assets\img\R329application.png)
 
 ## 核心规格
 
