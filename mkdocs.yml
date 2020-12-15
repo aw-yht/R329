@@ -16,8 +16,11 @@ copyright: <a href="https://developer.allwinnertech.com/">Copyright &copy; 2020 
 
 extra_css:
   - assets/css/style.css
+  - assets/css/simpleLightbox.min.css
 
 extra_javascript:
+  - assets/js/jquery-3.5.1.slim.min.js
+  - assets/js/simpleLightbox.min.js
   - assets/js/script.js
 
 
