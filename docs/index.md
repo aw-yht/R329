@@ -6,7 +6,7 @@ R329是全志科技针对智能语音旗舰市场推出的一款高集成度SoC�
 
 ##应用场景
 
-![R329应用场景](assets\img\R329application.png)
+![R329应用场景](assets/img/R329application.png)
 
 ## 核心规格
 
@@ -36,5 +36,5 @@ R329内置DDR3 128MB/256M
 
 
 
-![01](assets\img\R329_evb5_soc_pic.png)
+![01](assets/img/R329_evb5_soc_pic.png)
 
