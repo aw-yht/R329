@@ -26,12 +26,11 @@
 
 ## 开发/生产工具获取
 
-见XXX
+见：＜https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/gettools/＞
 
 ##技术支持获取
 
 敬请期待
-
 
 ##联系人
 

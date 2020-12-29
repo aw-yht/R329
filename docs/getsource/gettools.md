@@ -1,6 +1,6 @@
 # 开发/生产工具获取
 
-＃#量产工具中心（APST）
+##量产工具中心（APST）
 全志量产工具中心是全志量产工具下载的平台，您可以在上面下载到大量产品实际研发、测试、生产中需要用到的工具。如：固件烧写工具PhoenixSuit、SN号烧写工具DragonSN、硬件检测工具DragonHD等。  
 
 下载地址：<http://onlinedoc.allwinnertech.com/f/5fd3cc0533b44f458fca/?dl=1>
