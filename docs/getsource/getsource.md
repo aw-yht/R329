@@ -26,7 +26,7 @@
 
 ## 开发/生产工具获取
 
-见：＜https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/gettools/＞
+见：<https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/gettools/>
 
 ##技术支持获取
 
