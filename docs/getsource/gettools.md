@@ -1,13 +1,19 @@
-# 开发/生产工具获取
+# 生产工具
 
-##量产工具中心（APST）
-全志量产工具中心是全志量产工具下载的平台，您可以在上面下载到大量产品实际研发、测试、生产中需要用到的工具。如：固件烧写工具PhoenixSuit、SN号烧写工具DragonSN、硬件检测工具DragonHD等。  
+##量产工具中心APST
+全志量产工具中心是全志量产工具下载的平台，您可以在上面下载x到大量产品实际研发、测试、生产中需要用到的工具。如：固件烧写工具PhoenixSuit、SN号烧写工具DragonSN、硬件检测工具DragonHD等。  
 
 下载地址：<http://onlinedoc.allwinnertech.com/f/5fd3cc0533b44f458fca/?dl=1>
 
 ![APST截图](../assets/img/APST截图.png)
 
 
+
+##USB烧写驱动
+
+在使用全志固件烧写驱动之前，您需要先安装全志USB烧写驱动。在安装全志量产工具中心APST的过程中，会自动安装该驱动，如果您没有安装量产工具中心APST或者遇到异常，可单独安装全志USB烧写驱动。
+
+下载地址：http://onlinedoc.allwinnertech.com/f/ec4cbdf6c0c6429b8606/?dl=1
 
 
 

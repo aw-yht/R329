@@ -7,6 +7,7 @@ nav:
   - '资源获取':
     - getsource/getsource.md
     - getsource/gettools.md
+    - getsource/getdevtools.md
   #- navigation.md
 
 

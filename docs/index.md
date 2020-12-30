@@ -29,7 +29,7 @@ R329是全志科技针对智能语音旗舰市场推出的一款高集成度SoC�
 
 为方便开发者开发、调试及评估芯片性能，全志提供了官方开发板R329_evb5
 
-开发板介绍见:  [R329 EVB5开发板介绍](https://r329.readthedocs.io/zh_CN/latest/r329_evb5/)
+开发板介绍见： [R329 EVB5开发板介绍](https://r329.readthedocs.io/zh_CN/latest/r329_evb5/)
 
 
 

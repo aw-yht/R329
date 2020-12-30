@@ -12,9 +12,9 @@
 
 样片申请请提交申请表后免费领取 
 
-小批量芯片购买请点击淘宝链接XXXXX    
+小批量芯片购买请点击淘宝链接：XXXXX    
 
-大批量购买请直接联系全志商务XXXXX    
+大批量购买请直接联系全志商务：XXXXX    
 
 ## 源码获取
 
@@ -24,9 +24,11 @@
 
 敬请期待
 
-## 开发/生产工具获取
+## 生产工具获取
 
-见：<https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/gettools/>
+见 [生产工具获取](https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/gettools/)
+
+
 
 ##技术支持获取
 
