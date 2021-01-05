@@ -12,9 +12,9 @@
 
 样片申请请提交申请表后免费领取 
 
-小批量芯片购买请点击淘宝链接：XXXXX    
+小批量芯片购买请点击淘宝链接：https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871    
 
-大批量购买请直接联系全志商务：XXXXX    
+大批量购买请直接联系：陈工 chenkunyao@allwinnertech.com
 
 ## 源码获取
 敬请期待
@@ -34,7 +34,5 @@
 
 敬请期待
 
-## 联系人
 
-全志科技-陈工：chenkunyao@allwinnertech.com
 
