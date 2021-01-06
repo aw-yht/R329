@@ -9,7 +9,7 @@
 
 样片申请请提交申请表后免费领取 
 
-小批量购买请点击淘宝链接：https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871    
+小批量购买请点击淘宝链接：<https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871>    
 
 大批量购买请联系全志科技陈工： chenkunyao@allwinnertech.com
 
