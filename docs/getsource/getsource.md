@@ -1,20 +1,17 @@
-# 资源列表
+# 资源汇总
 
 您可以从全志获得以下资源
 
-## 开发板获取
-
-免费申领：XXXXXX  
-淘宝购买链接：XXXXXX    
 
 
-## 芯片获取
+
+## 开发板/芯片获取
 
 样片申请请提交申请表后免费领取 
 
-小批量芯片购买请点击淘宝链接：https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871    
+小批量购买请点击淘宝链接：https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871    
 
-大批量购买请直接联系：陈工 chenkunyao@allwinnertech.com
+大批量购买请联系全志科技陈工： chenkunyao@allwinnertech.com
 
 ## 源码获取
 敬请期待
@@ -33,6 +30,10 @@
 ## 技术支持获取
 
 敬请期待
+
+##  固件下载
+
+R329 EVB5开发板固件下载：<https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/getr329img/>
 
 
 

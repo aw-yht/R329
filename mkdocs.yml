@@ -2,13 +2,12 @@ site_name: R329
 
 nav:
   - index.md
-  #- getsource.md
   - r329_evb5.md
   - '资源获取':
     - getsource/getsource.md
     - getsource/gettools.md
     - getsource/getdevtools.md
-  #- navigation.md
+    -getsource/getr329img.md
 
 
 
