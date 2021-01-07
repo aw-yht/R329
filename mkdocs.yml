@@ -5,6 +5,8 @@ nav:
   - r329_evb5.md
   - '开发学习':
     - devboardstudy/r329evb5study1.md
+    - devboardstudy/r329evb5study2.md
+    - devboardstudy/r329evb5study3.md
   - '资源获取':
     - getsource/getsource.md
     - getsource/gettools.md

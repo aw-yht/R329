@@ -38,7 +38,7 @@ ADB全称Android debug bridge，顾名思义，即连接安卓的桥梁，原来
 
 波特率：115200
 
-线序：黑-GND，红-3.5V，绿-RX，红-TX
+线序：黑-GND，红-3.5V，绿-RX，白-TX
 
 ![串口线截图](../assets/img/%E4%B8%B2%E5%8F%A3%E7%BA%BF%E6%88%AA%E5%9B%BE.jpg)
 
