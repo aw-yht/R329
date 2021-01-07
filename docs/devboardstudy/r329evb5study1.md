@@ -11,13 +11,13 @@ R329 EVB5提供了两种设备调试的方法，分别是**串口**和**ADB**。
 
 插上电源，串口线连接开发板和电脑USB，如图：
 
-<img src="../assets/img/%E4%B8%B2%E5%8F%A3%E8%BF%9E%E6%8E%A5%E7%A4%BA%E6%84%8F%E5%9B%BE1.png" alt="串口连接示意图1" style="zoom:67%;" />
+![三线连接标注图](../assets/img/%E4%B8%B2%E5%8F%A3%E8%BF%9E%E6%8E%A5%E7%A4%BA%E6%84%8F%E5%9B%BE1.png)
 
 *图中右上角的屏幕为左下角笔记本的HDMI拓展
 
 串口线线序如图：
 
-<img src="../assets/img/%E4%B8%B2%E5%8F%A3%E7%BA%BF%E5%BA%8F%E6%A0%87%E6%B3%A8%E5%9B%BE.png" alt="串口线序标注图" style="zoom:75%;" />
+![串口线序标注图](../assets/img/%E4%B8%B2%E5%8F%A3%E7%BA%BF%E5%BA%8F%E6%A0%87%E6%B3%A8%E5%9B%BE.png)
 
 ## 安装串口驱动
 
@@ -56,7 +56,7 @@ overlay                    var
 proc                       www
 ```
 
-![串口ls](../assets/img/%E4%B8%B2%E5%8F%A3ls.png)
+![串口ls截图](../assets/img/%E4%B8%B2%E5%8F%A3ls.png)
 
 **如果看到这些，那么恭喜你，你已经拥有了操控了这个开发板的能力，现在，开始驾驭它在嵌入式的世界里遨游吧！**
 
@@ -68,7 +68,7 @@ ADB全称Android debug bridge，顾名思义，即连接安卓的桥梁，原来
 
 相比串口，ADB有更高的传输速率，除了终端命令控制，还可以通过ADB往开发板里推拉文件。同时，全志提供的一些生产测试工具，如DragonMAT等，也是通过ADB和开发板进行通信的。
 
-<img src="../assets/img/USB%E6%8E%A5%E5%8F%A3%E6%A0%87%E6%B3%A8.png" alt="USB接口标注" style="zoom:80%;" />
+![USB接口标注](../assets/img/USB%E6%8E%A5%E5%8F%A3%E6%A0%87%E6%B3%A8.png)
 
 安装和使用方法：将adb.exe文件放到任意目录下，建议是比较浅的路径，如D:\adb.exe，然后将该路径添加到系统环境变量中，即可在cmd下直接进行adb操作。详细方法和高阶操作在互联上有大量介绍，可自行搜索学习。
 
