@@ -33,7 +33,7 @@
 
 ##  固件下载
 
-R329 EVB5开发板固件下载：<https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/getr329img/>
+R329 EVB5开发板固件下载：[固件下载](https://r329.docs.allwinnertech.com/zh_CN/latest/getsource/getr329img/)
 
 
 

@@ -3,7 +3,7 @@ site_name: R329
 nav:
   - index.md
   - r329_evb5.md
-  - '研发入门':
+  - '开发学习':
     - devboardstudy/r329evb5study1.md
   - '资源获取':
     - getsource/getsource.md
