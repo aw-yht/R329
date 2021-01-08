@@ -3,10 +3,19 @@ site_name: R329
 nav:
   - index.md
   - r329_evb5.md
-  - '开发学习':
-    - devboardstudy/r329evb5study1.md
-    - devboardstudy/r329evb5study2.md
-    - devboardstudy/r329evb5study3.md
+  - '开发板入门':
+    - devboardstudy/r329evb5study1.md #上手第一步：连接开发板
+    - devboardstudy/r329evb5study2.md #上手第二步：控制开发板
+    - devboardstudy/r329evb5study3.md #上手第三步：编译源码
+  #- '开发板进阶':
+  #  -#认识TinaLinux
+  #  -#开发板硬件介绍
+  #  -#系统启动流程
+  #  -#修改一个配置
+  #  -#移植一个驱动
+  #  -#新建一个方案
+  #  -#新建一个Demo Hello World
+  #  -#OTA
   - '资源获取':
     - getsource/getsource.md
     - getsource/gettools.md
