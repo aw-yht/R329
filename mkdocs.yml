@@ -23,7 +23,8 @@ nav:
     - getsource/gettools.md
     - getsource/getdevtools.md
     - getsource/getr329img.md
-  #- '常见问题':
+  - '常见问题':
+    - FAQ/FAQ1.md
 
 
 
