@@ -4,13 +4,15 @@ nav:
   - index.md
   - r329_evb5.md
   - '开发板入门':
-    - devboardstudy/r329evb5study1.md #上手第一步：连接开发板
-    - devboardstudy/r329evb5study2.md #上手第二步：控制开发板
-    - devboardstudy/r329evb5study3.md #上手第三步：编译源码
+    - devboardstudy/r329evb5study1.md # 连接开发板
+    - devboardstudy/r329evb5studyled.md # 点灯
+    - devboardstudy/r329evb5studywifi.md # wifi
+    - devboardstudy/r329evb5studyarecord.md # 录音与播放
+    - devboardstudy/r329evb5study3.md # 编译
   #- '开发板进阶':
   #  -#认识TinaLinux
   #  -#开发板硬件介绍
-  #  -#系统启动流程
+  #  -#系统启动流程,开机脚本配置
   #  -#修改一个配置
   #  -#移植一个驱动
   #  -#新建一个方案
