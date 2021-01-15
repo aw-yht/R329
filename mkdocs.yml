@@ -9,6 +9,7 @@ nav:
     - devboardstudy/r329evb5studywifi.md # wifi
     - devboardstudy/r329evb5studyarecord.md # 录音与播放
     - devboardstudy/r329evb5study3.md # 编译
+    - devboardstudy/r329evb5xr829.md # 修改无线模组
   #- '开发板进阶':
   #  -#认识TinaLinux
   #  -#开发板硬件介绍
