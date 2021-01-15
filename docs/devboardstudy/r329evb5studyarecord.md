@@ -62,7 +62,7 @@ proc                       www
 
 ## 播放
 
-
+使用命令*aplay* +音频文件即可播放该文件，如：
 
 ```bash
 root@TinaLinux:/# aplay test.wav
@@ -91,7 +91,7 @@ Playing WAVE 'test.wav' : Unsigned 8 bit, Rate 8000 Hz, Mono
 
 ## 查看音频文件
 
-
+同时，我们可以通过adb将音频文件拉到PC上查看。
 
 ```bash
 adb pull test.wav
@@ -101,8 +101,10 @@ adb pull test.wav
 
 ![image-20210108185913812](../assets/img/image-20210108185913812.png)
 
-
+查看音频文件可以使用音频处理软件，如*Audacity*：
 
 
 
 ![image-20210108190102548](../assets/img/image-20210108190102548.png)
+
+上图就是我们用*Audacity*打开刚刚录下的音频文件的样子。图中只有一个声道，如果是用三麦克风的阵列录得声音，我们可以看到有三个音轨。如果还有一路或者两路回路（AEC），我们一根可以看到四个或者五个音轨。
