@@ -7,9 +7,9 @@
 
 ## 开发板/芯片获取
 
-样片申请请提交申请表后免费领取 
+提交申请可免费领取开发板：[全志科技R329智能语音开发板申请](http://allwinnertech.mikecrm.com/quJAIxI)
 
-小批量购买请点击淘宝链接：<https://shop411926351.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2210226104871>    
+小批量购买请点击淘宝链接：[全志科技官方淘宝店-R329开发板](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w137644-23414080273.26.234e6b22hEvtDi&id=636944067275)    
 
 大批量购买请联系全志科技陈工： chenkunyao@allwinnertech.com
 

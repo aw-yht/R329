@@ -1,4 +1,4 @@
-# wifi连网
+# WiFi连网
 
 R329 EVB5开发板上集成了全志自研的XR829无线芯片，支持2.4G wifi 和BT功能。Tina Linux系统对无线功能进行集成，可以直接使用内置DEMO连接wiff、BT。这里主要演示wifi demo 。
 
@@ -68,7 +68,7 @@ Wifi get_scan_results: Success!
 
 ![image-20210108144624955](../assets/img/image-20210108144624955.png)
 
-## 连接一个wifi 
+## 连接一个WiFi 
 
 输入wifi_connect_ap_test +wifi ssid（wifi名）+密码，即可连接该wifi ，如连接ssid为*AWTest* 、密码为 *12345678* 的wifi：
 
