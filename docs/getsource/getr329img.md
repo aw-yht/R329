@@ -7,7 +7,7 @@
 ## R329-N4 EVB5 20210106
 
 
-下载地址：https://developer.allwinnertech.com/downloads/resources/9    
+下载地址：<https://developer.allwinnertech.com/downloads/resources/9>
 
 固件配置：R329-N4,5V 1A小口供电，分立元器件，XR829，开启DragonMAT，配置蓝牙打开、LED、WIFI扫描、播放录音4项测试
 
@@ -29,7 +29,7 @@
 
 ## R329-N4 EVB5 20210104
 
-下载地址：https://developer.allwinnertech.com/downloads/resources/10     
+下载地址：<https://developer.allwinnertech.com/downloads/resources/10>   
 
 固件配置：R329-N4, 5V 1A小口供电，分立元器件，XR829，开启DragonMAT，配置蓝牙开关、LED、WIFI扫描4项测试
 
