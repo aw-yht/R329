@@ -5,6 +5,7 @@
 
 下载地址：https://developer.allwinnertech.com/downloads/resources/14
 
+
 ![APST截图](../assets/img/APST截图.png)
 
 
@@ -15,12 +16,9 @@
 
 下载地址：https://developer.allwinnertech.com/downloads/resources/15
 
-
-
 ## 固件烧写工具PhoenixSuit
 
-PhoenixSuit是全志固件烧写工具，可以将上位机编译好的固件（.img）烧写（下载）到开发板上。    
-
+PhoenixSuit是全志固件烧写工具，可以将上位机编译好的固件（.img）烧写（下载）到开发板上。     
 下载地址：https://developer.allwinnertech.com/downloads/resources/13
 
 ![PhoenixSuit截图](../assets/img/PhoenixSuit%E6%88%AA%E5%9B%BE.png)
@@ -33,10 +31,10 @@ DragonSN是全志设备号烧写工具，可以通过USB将设备号（SN）、M
 
 下载地址：https://developer.allwinnertech.com/downloads/resources/11  
 
+
 ![DragonSN截图](../assets/img/DragonSN%E6%88%AA%E5%9B%BE.png)
 
 ![DragonSN配置截图](../assets/img/DragonSN%E9%85%8D%E7%BD%AE%E6%88%AA%E5%9B%BE.png)
-
 
 
 ## 生产测试工具DragonMAT
@@ -45,4 +43,4 @@ DragonMAT是全志生产测试工具，可配合Tinatest进行研发性能测试
 
 ![gragonMAT测试通过截图](../assets/img/gragonMAT%E6%B5%8B%E8%AF%95%E9%80%9A%E8%BF%87%E6%88%AA%E5%9B%BE.png)
 
-下载地址：https://developer.allwinnertech.com/downloads/resources/12   
+https://developer.allwinnertech.com/downloads/resources/12   
